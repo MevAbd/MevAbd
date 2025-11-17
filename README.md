@@ -71,12 +71,6 @@ Building robust solutions in C, one line at a time 🚀
 
 ---
 
-## 📈 42 Stats
-
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=malbrand&dark=true)
-
----
-
 ## 🌍 Speaking
 
 - **French** (Native) 🇫🇷
